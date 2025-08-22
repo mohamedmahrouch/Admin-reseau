@@ -7,8 +7,6 @@ Projet académique réalisé dans le cadre du module "Interconnexion et Administ
 
 Ce projet consiste en la conception, la mise en œuvre et la sécurisation d'une infrastructure réseau complète et virtualisée sous Linux, divisée en un parc informatique et un parc de recherche.
 
-<!-- Optionnel : Ajoutez une capture d'écran de votre schéma d'architecture ici -->
-![Schéma d'Architecture]([LIEN-VERS-VOTRE-CAPTURE-D-ARCHITECTURE])
 
 ---
 
