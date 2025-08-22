@@ -92,11 +92,3 @@ Ce projet a été réalisé par :
 *   **BANNANY Brahim** - [GitHub]([LIEN-VERS-LE-PROFIL-DE-BRAHIM])
 *   **MAHROUCH Mohamed** - [GitHub](https://github.com/mohamedmahrouch)
 
-### Encadrement
-Projet encadré par **Prof. Fatima AMOUNAS**.
-
----
-
-## 📜 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
