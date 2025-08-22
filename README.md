@@ -3,7 +3,7 @@
 ![Statut du Projet](https://img.shields.io/badge/statut-terminé-brightgreen)
 ![Licence](https://img.shields.io/badge/licence-MIT-blue)
 
-Projet académique réalisé dans le cadre du module "Interconnexion et Administration des réseaux" du Cycle d'Ingénieurs en Génie Informatique à la FST Errachidia.
+Projet académique réalisé dans le cadre du module "Interconnexion et Administration des réseaux" 
 
 Ce projet consiste en la conception, la mise en œuvre et la sécurisation d'une infrastructure réseau complète et virtualisée sous Linux, divisée en un parc informatique et un parc de recherche.
 
